@@ -7,7 +7,7 @@
 
 # 新聞系統
 1. 首頁
-![](./demo_sample_images/index_news.png)
+![](./demo_images/index_news.png)
 
 2. 內容
-![](./demo_sample_images/news.png)
+![](./demo_images/news.png)
